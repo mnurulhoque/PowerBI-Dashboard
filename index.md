@@ -21,4 +21,3 @@ The objectives of this Dashboard is to present the daily picture of a Customer S
 - **Canva:** Created visuals for the README file.
 
 [NJProject Customer Service Dashboard](NJProject_dashboard.html)
-
