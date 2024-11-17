@@ -22,3 +22,8 @@ The objectives of this Dashboard is to present the daily picture of a Customer S
 
 Check out my interactive Power BI dashboard here:  
 [NJProject Customer Service Dashboard](NJProject_dashboard.html)
+
+Check out this interactive dashboard in PowerBI Website:  
+[NJProject Customer Service Dashboard](NJProject_dashboard.html)
+
+
