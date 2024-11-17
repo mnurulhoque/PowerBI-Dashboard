@@ -22,6 +22,3 @@ The objectives of this Dashboard is to present the daily picture of a Customer S
 
 [NJProject Customer Service Dashboard](NJProject_dashboard.html)
 
-Check out this interactive dashboard in PowerBI Website:  
-[NJProject Customer Service Dashboard](https://app.powerbi.com/view?r=eyJrIjoiYzNkNmExMWItNjM3My00ZTlmLTk2OGQtNjYwMWMyOTM5MTZmIiwidCI6ImI5MmQyYjIzLTRkMzUtNDQ3MC05M2ZmLTY5YWNhNjYzMmZmZSIsImMiOjF9)
-
