@@ -18,8 +18,8 @@ The objectives of this Dashboard is to present the daily picture of a Customer S
 
 ### 4. Other Tools
 - **GitHub:** Hosted the project files, including `.pbix` file and supporting documents.
-- **Canva:** Created visuals for the README file.
 
+# Dashboard (Interactive)
 <iframe src='NJProject_dashboard.html' width = '1000' height = '1000' ></iframe>
 
 Check out this interactive dashboard in PowerBI Website:  
