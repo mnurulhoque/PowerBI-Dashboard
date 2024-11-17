@@ -20,6 +20,8 @@ The objectives of this Dashboard is to present the daily picture of a Customer S
 - **GitHub:** Hosted the project files, including `.pbix` file and supporting documents.
 - **Canva:** Created visuals for the README file.
 
-Check out my interactive Power BI dashboard here:  
 [NJProject Customer Service Dashboard](NJProject_dashboard.html)
+
+Check out this interactive dashboard in PowerBI Website:  
+[NJProject Customer Service Dashboard](https://app.powerbi.com/view?r=eyJrIjoiYzNkNmExMWItNjM3My00ZTlmLTk2OGQtNjYwMWMyOTM5MTZmIiwidCI6ImI5MmQyYjIzLTRkMzUtNDQ3MC05M2ZmLTY5YWNhNjYzMmZmZSIsImMiOjF9)
 
